@@ -19,3 +19,8 @@ Run command from anywhere
 
     pong
 
+# Controls  
+W and S move the left peg, the up and down arrows move the right peg, space to pause/play  
+
+# Rules  
+Try to get the ball to hit the wall behind your opponent and avoid the same happening to you  
