@@ -1,8 +1,7 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 # -*- coding: utf-8 -*-
-# vim:fenc=utf-8
 #
-# Copyright © 2018 khachig <khachig@khachig-pc>
+# Copyright © 2018 Khachig Ainteblian <ainteblian99@gmail.com>
 #
 # Distributed under terms of the MIT license.
 
