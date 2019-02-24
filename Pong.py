@@ -5,9 +5,9 @@
 #
 # Distributed under terms of the MIT license.
 
+
 import pygame
-from time import sleep
-from random import choice
+
 from Ball import Ball
 from Peg import Peg
 
